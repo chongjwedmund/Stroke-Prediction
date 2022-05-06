@@ -1,6 +1,6 @@
+# Stroke Prediction
 This repository contains my submissions to a Kaggle competition, in which I attained first place. 
 
-# Stroke-Prediction
 This is a Kaggle competition to predict deaths in the International Stroke Trial. The training set includes information about 9,762 patients within the trial. The test set includes related information about 9,558 additional patients. The goal of this competition is to predict whether each patient was still living or not six months after the initial event.
 
 ### Acknowledgments

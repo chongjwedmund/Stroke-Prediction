@@ -10,3 +10,7 @@ This dataset comes from the International Stroke Trial Database found in journal
 The evaluation metric for this competition is Classification Accuracy. A score is calculated by determining the number of correct predictions and dividing this number by the total number of predictions made.
 
 https://www.kaggle.com/competitions/stroke-trial-prediction/overview/description 
+
+### Additional 
+Model Explanability 
+Improving machine learning explanability will create awareness on which clinical risk factors affect output. It can ensure robustness of models and can be verified against clinical intuition. To incorporate explanability into overall output, Shapley Values (SHAP) was implemented, as it provides contextualized explanation of the model outputs at both an instance and global level. 
